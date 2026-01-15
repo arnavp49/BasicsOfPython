@@ -1,6 +1,8 @@
 Basics of Python 
 tools
+
 language: python 3 
+
 environment: google colab 
  
 Theory
